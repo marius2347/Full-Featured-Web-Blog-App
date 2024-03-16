@@ -2,7 +2,8 @@
 <br>
 <h2>Features</h2>
 <ul>
-    <li> Applications and Routes</li>
+    <li>Applications and Routes</li>
+    <li>Templates </li>
 </ul>
 
 
