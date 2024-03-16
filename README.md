@@ -1,4 +1,4 @@
-<h1> Full Featured Web Blog App- Python Project</h1>
+<h1> Full Featured Web Blog App - Python Project</h1>
 <br>
 <h2>Features</h2>
 <ul>
