@@ -4,6 +4,7 @@
 <ul>
     <li>Applications and Routes</li>
     <li>Templates </li>
+    <li>Admin Page</li>
 </ul>
 
 
